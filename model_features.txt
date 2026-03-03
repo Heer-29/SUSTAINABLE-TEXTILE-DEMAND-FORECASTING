@@ -1,0 +1,20 @@
+Features expected by the model:
+ 1. weekofyear
+ 2. month
+ 3. quarter
+ 4. day_of_week
+ 5. is_weekend
+ 6. is_holiday_season
+ 7. is_spring_summer
+ 8. is_sustainable
+ 9. is_seasonal_category
+10. units_lag_1
+11. units_lag_2
+12. units_lag_4
+13. units_lag_8
+14. units_ma_4
+15. units_ma_8
+16. units_ma_12
+17. units_std_4
+18. units_std_8
+19. units_std_12
